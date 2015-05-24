@@ -4,5 +4,5 @@ Note extDB2 is very similiar but it is not back compatiable extDB.
 So if your mission is still using extDB you need to update it  
 
 
-## Also extDB has known bugs that can + will crash armaserver  
-## These bugs are fixed in extDB2  
+##### extDB has known bugs that can and will crash armaserver  
+##### These bugs are fixed in extDB2  
