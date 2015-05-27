@@ -1,3 +1,10 @@
+# IMPORTANT UPCOMING BATTLEYE CHANGES  
+Will prevent extensions from beening run on client i.e like Arma2.  
+extDB2 will be whitelisted, extDB will not be whitelisted.  
+
+If you are running a headless client, now is the time to update your mission.  
+
+
 ## No Longer Maintained...  
 Offical Development is now at http://github.com/Torndeco/extDB2  
   
