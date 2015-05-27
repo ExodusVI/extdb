@@ -1,4 +1,4 @@
-# IMPORTANT UPCOMING BATTLEYE CHANGES  
+## UPCOMING BATTLEYE CHANGES  
 Will prevent extensions from beening run on client i.e like Arma2.  
 extDB2 will be whitelisted, extDB will not be whitelisted.  
 
